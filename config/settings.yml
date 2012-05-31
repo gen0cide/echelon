@@ -1,0 +1,4 @@
+host:       10.200.200.25
+port:       6000
+useragent:  Echelon Proxy 0.1
+domain:     logme.mobi
