@@ -1,7 +1,7 @@
 echelon
 ===========
 
-Finally, a commit from @Github.
+Finally, a commit from @defunkt.
 
 After reading RFC 3507, it didn't seem that hard to do this in Ruby. 
 
