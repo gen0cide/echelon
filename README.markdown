@@ -1,6 +1,8 @@
 echelon
 ===========
 
+Adding a new line from scanner.
+
 After reading RFC 3507, it didn't seem that hard to do this in Ruby. 
 
 Simple to use, run `./setup.sh full` as root or sudo on Ubuntu 11.04+. It will install the needed packages, setup ruby, and other time consuming tasks.
