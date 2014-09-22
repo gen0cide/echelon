@@ -1,6 +1,8 @@
 echelon
 ===========
 
+Getting trill commits from @packetfocus.
+
 Adding a new line from d1stkfactory.
 
 Adding a new line from scanner.
