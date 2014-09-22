@@ -1,13 +1,7 @@
 echelon
 ===========
 
-A commit from Bluebox, attempt #2
-
-Getting trill commits from @packetfocus.
-
-Adding a new line from d1stkfactory.
-
-Adding a new line from scanner.
+Finally, a commit from @Github.
 
 After reading RFC 3507, it didn't seem that hard to do this in Ruby. 
 
